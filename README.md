@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+If you wanna check the project download the code and
+
+### `npm i`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
